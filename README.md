@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 🧠 Emotion Classification
-
 ### DistilBERT + Attention-Based Emotion Recognition
 
 Detect human emotions from text using Deep Learning and Transformer models.
